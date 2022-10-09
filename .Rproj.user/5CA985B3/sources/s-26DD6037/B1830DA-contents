@@ -1,0 +1,3 @@
+a<-vector(mode="list",length=3)
+a[1]=list(list(1,2,3))
+b=a[[1]]

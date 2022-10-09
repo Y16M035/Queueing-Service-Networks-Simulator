@@ -1,0 +1,40 @@
+ARRIVAL
+lambda: 60
+transitions: urgencias-0.6, cabeceras-0.3, especialistas-0.1
+
+NODE
+id: urgencias
+arrival: M
+exit: M
+servers: 15 
+queue discipline: PR - 3 
+mu: 3 
+infrastructure cost: 450
+service revenue per client: 20
+transitions: especialistas-0.1
+capacity: 65
+
+NODE
+id: especialistas
+arrival: M
+exit: M
+servers: 10
+queue discipline: RSS
+mu: 1.5
+service cost: 20 
+infrastructure cost: 300
+service revenue per client: 100
+transitions: 
+capacity: 20
+
+NODE
+id: cabeceras
+arrival: M
+exit: M
+servers: 12
+queue discipline: FIFO
+mu: 2
+infrastructure cost: 360
+service revenue per client: 50
+transitions: especialistas-0.1
+capacity: 62

@@ -1,0 +1,79 @@
+n=0
+createArrival <- function(data,i){
+
+createNode <- function(data,i){
+  node <- list(id=-1,type="MM1",mu=0, QCost=0, SCost=0, SN=0, Rev=0, t=NULL)
+  finished=0
+  while(finished==0 && i<length(data)+1){
+    line<-data[i]
+    first<-trimws(strsplit(line,":")[[1]][1])
+    second<-trimws(strsplit(line,":")[[1]][2])
+    if (first=="id"){
+      node$id=second
+    }
+    else if (first=="type"){
+      node$type=second
+    }
+    else if (first=="mu"){
+      node$mu=as.numeric(second)
+    }
+    else if (first=="queue cost per client"){
+      node$QCost=as.numeric(second)
+    }
+    else if (first=="service cost per client"){
+      node$SCost=as.numeric(second)
+    }
+    else if (first=="infrastructure cost"){
+      node$ICost=as.numeric(second)
+    }
+    else if (first=="service revenue per client"){
+      node$Rev=as.numeric(second)
+    }
+    else if (first=="transitions"){
+      transitions<-strsplit(second,",")[[1]]
+      for (entry in transitions){
+        id<-trimws(strsplit(entry,"_")[[1]][1])
+        p<-as.numeric(trimws(strsplit(entry,"_")[[1]][2]))
+      }
+    }
+    else if (first=="NODE"){
+      createNode(data,i+1)
+    }
+    i<-i+1
+  }
+  return(node)
+}
+
+data <- readLines("text")
+data <-data[which(data!="")]
+i=1
+if(data[i]=="ARRIVAL"){
+  arrival<-list(lambda=0,id=-2, nodes=0)
+  finished=0
+  while(finished==0 && i<length(data)+1){
+    line<-data[i]
+    first<-trimws(strsplit(line,":")[[1]][1])
+    second<-trimws(strsplit(line,":")[[1]][2])
+    if(first=="lambda"){
+      arrival$lambda=as.numeric(second)
+    }
+    else if (first=="entry id"){
+      arrival$id=second
+    }
+    else if (first=="number of nodes"){
+      arrival$nodes=as.numeric(second)
+    }
+    else if (first=="NODE"){
+      finished=1
+    }
+    i<-i+1
+  }
+}
+}else if(data[1]=="NODE"){
+  node<-createNode(data,2)
+}
+
+
+
+
+

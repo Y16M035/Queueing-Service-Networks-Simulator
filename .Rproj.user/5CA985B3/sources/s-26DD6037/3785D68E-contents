@@ -1,0 +1,6 @@
+line="12;44:31;2"
+lines<-list(strsplit(line,":"))[[1]]
+
+for (entry in lines){
+  print(strsplit(entry,";"))
+}

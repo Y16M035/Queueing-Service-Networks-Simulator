@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587998720674.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2513132562",
+    "id" : "B4AC3513",
+    "lastKnownWriteTime" : 1588020079,
+    "last_content_update" : 1588020079313,
+    "path" : "~/TFG/parser.R",
+    "project_path" : "parser.R",
+    "properties" : {
+        "cursorPosition" : "84,3",
+        "scrollLine" : "63",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

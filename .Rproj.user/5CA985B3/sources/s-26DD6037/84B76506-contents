@@ -1,0 +1,12 @@
+data <- readLines("text")
+head(data)
+
+for (i in range(length(data))){
+  line=data[i]
+  if(line=="arrival"){
+    print("ok")
+  }else{
+    print(line)
+  }
+}
+

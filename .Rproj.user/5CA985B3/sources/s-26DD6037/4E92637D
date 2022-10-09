@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587999299988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4087327852",
+    "id" : "4E92637D",
+    "lastKnownWriteTime" : 1588019543,
+    "last_content_update" : 1588019543055,
+    "path" : "~/TFG/text",
+    "project_path" : "text",
+    "properties" : {
+        "cursorPosition" : "6,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

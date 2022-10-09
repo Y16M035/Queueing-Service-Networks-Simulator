@@ -1,0 +1,2262 @@
+Datos obtenidos entre la llegada del cliente  0 y el  2018 
+########################################## 
+NODO  urgencias 
+L:  18.65152 
+Lq:  0.969697 
+W:  0.8631727 
+Wq  0.5167388 
+Clientes servidos:  1167 
+CLientes rechazados:  0 
+Beneficio:  8490 
+########################################## 
+NODO  especialistas 
+L:  6.19697 
+Lq:  0.7575758 
+W:  0.8370703 
+Wq  0.1716536 
+Clientes servidos:  359 
+CLientes rechazados:  5 
+Beneficio:  26000 
+########################################## 
+NODO  cabeceras 
+L:  9.712121 
+Lq:  0.969697 
+W:  0.8047572 
+Wq  0.3087679 
+Clientes servidos:  577 
+CLientes rechazados:  0 
+Beneficio:  16970 
+########################################## 
+GENERAL 
+L:  34.56061 
+Lq:  2.69697 
+W:  0.9411448 
+Wq:  0.4475927 
+Salidas exitosas del sistema:  1883 
+Clientes forzados a salir:  5 
+Beneficio:  51460 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  2018 y el  4034 
+########################################## 
+NODO  urgencias 
+L:  18.32353 
+Lq:  0.5294118 
+W:  0.7899998 
+Wq  0.4602476 
+Clientes servidos:  1210 
+CLientes rechazados:  0 
+Beneficio:  8900 
+########################################## 
+NODO  especialistas 
+L:  6.661765 
+Lq:  0.7647059 
+W:  0.8456069 
+Wq  0.204656 
+Clientes servidos:  401 
+CLientes rechazados:  2 
+Beneficio:  29900 
+########################################## 
+NODO  cabeceras 
+L:  9.75 
+Lq:  0.7941176 
+W:  0.8170999 
+Wq  0.2949021 
+Clientes servidos:  609 
+CLientes rechazados:  0 
+Beneficio:  18210 
+########################################## 
+GENERAL 
+L:  34.73529 
+Lq:  2.088235 
+W:  0.8869876 
+Wq:  0.4050282 
+Salidas exitosas del sistema:  2021 
+Clientes forzados a salir:  2 
+Beneficio:  57010 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  4034 y el  6073 
+########################################## 
+NODO  urgencias 
+L:  19.5 
+Lq:  1.060606 
+W:  0.8886397 
+Wq  0.5335088 
+Clientes servidos:  1217 
+CLientes rechazados:  0 
+Beneficio:  9490 
+########################################## 
+NODO  especialistas 
+L:  7.939394 
+Lq:  2.151515 
+W:  1.085606 
+Wq  0.327861 
+Clientes servidos:  382 
+CLientes rechazados:  7 
+Beneficio:  28300 
+########################################## 
+NODO  cabeceras 
+L:  9.484848 
+Lq:  0.3939394 
+W:  0.7426614 
+Wq  0.2674653 
+Clientes servidos:  600 
+CLientes rechazados:  0 
+Beneficio:  18120 
+########################################## 
+GENERAL 
+L:  36.92424 
+Lq:  3.606061 
+W:  0.9622264 
+Wq:  0.4633312 
+Salidas exitosas del sistema:  2018 
+Clientes forzados a salir:  7 
+Beneficio:  55910 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  6073 y el  8137 
+########################################## 
+NODO  urgencias 
+L:  18.45714 
+Lq:  0.5428571 
+W:  0.799039 
+Wq  0.4697743 
+Clientes servidos:  1254 
+CLientes rechazados:  0 
+Beneficio:  9330 
+########################################## 
+NODO  especialistas 
+L:  6.357143 
+Lq:  0.9142857 
+W:  0.8718097 
+Wq  0.1652618 
+Clientes servidos:  381 
+CLientes rechazados:  0 
+Beneficio:  27600 
+########################################## 
+NODO  cabeceras 
+L:  9.528571 
+Lq:  0.7714286 
+W:  0.8081641 
+Wq  0.281332 
+Clientes servidos:  613 
+CLientes rechazados:  0 
+Beneficio:  18050 
+########################################## 
+GENERAL 
+L:  34.34286 
+Lq:  2.228571 
+W:  0.8817152 
+Wq:  0.3973582 
+Salidas exitosas del sistema:  2075 
+Clientes forzados a salir:  0 
+Beneficio:  54980 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  8137 y el  10185 
+########################################## 
+NODO  urgencias 
+L:  21.68571 
+Lq:  3.657143 
+W:  0.9417099 
+Wq  0.5868872 
+Clientes servidos:  1262 
+CLientes rechazados:  1 
+Beneficio:  9490 
+########################################## 
+NODO  especialistas 
+L:  6.242857 
+Lq:  1.028571 
+W:  0.8899225 
+Wq  0.1815462 
+Clientes servidos:  365 
+CLientes rechazados:  4 
+Beneficio:  26000 
+########################################## 
+NODO  cabeceras 
+L:  9.628571 
+Lq:  0.8857143 
+W:  0.8046703 
+Wq  0.2931683 
+Clientes servidos:  612 
+CLientes rechazados:  0 
+Beneficio:  18000 
+########################################## 
+GENERAL 
+L:  37.55714 
+Lq:  5.571429 
+W:  0.9798328 
+Wq:  0.4818442 
+Salidas exitosas del sistema:  2047 
+Clientes forzados a salir:  5 
+Beneficio:  53490 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  10185 y el  12223 
+########################################## 
+NODO  urgencias 
+L:  18.80882 
+Lq:  1 
+W:  0.8407592 
+Wq  0.4945941 
+Clientes servidos:  1211 
+CLientes rechazados:  0 
+Beneficio:  8920 
+########################################## 
+NODO  especialistas 
+L:  7 
+Lq:  1.147059 
+W:  0.962221 
+Wq  0.2334857 
+Clientes servidos:  398 
+CLientes rechazados:  0 
+Beneficio:  29600 
+########################################## 
+NODO  cabeceras 
+L:  9.941176 
+Lq:  0.8529412 
+W:  0.8339844 
+Wq  0.314205 
+Clientes servidos:  618 
+CLientes rechazados:  0 
+Beneficio:  18660 
+########################################## 
+GENERAL 
+L:  35.75 
+Lq:  3 
+W:  0.9390131 
+Wq:  0.4341301 
+Salidas exitosas del sistema:  2041 
+Clientes forzados a salir:  0 
+Beneficio:  57180 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  12223 y el  14259 
+########################################## 
+NODO  urgencias 
+L:  18.4 
+Lq:  0.8 
+W:  0.8596918 
+Wq  0.501983 
+Clientes servidos:  1232 
+CLientes rechazados:  0 
+Beneficio:  8890 
+########################################## 
+NODO  especialistas 
+L:  7.1 
+Lq:  1.657143 
+W:  0.9539095 
+Wq  0.2458932 
+Clientes servidos:  381 
+CLientes rechazados:  7 
+Beneficio:  27600 
+########################################## 
+NODO  cabeceras 
+L:  8.671429 
+Lq:  0.5428571 
+W:  0.7083414 
+Wq  0.2132244 
+Clientes servidos:  569 
+CLientes rechazados:  0 
+Beneficio:  15850 
+########################################## 
+GENERAL 
+L:  34.17143 
+Lq:  3 
+W:  0.9091763 
+Wq:  0.4150662 
+Salidas exitosas del sistema:  2008 
+Clientes forzados a salir:  7 
+Beneficio:  52340 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  14259 y el  16260 
+########################################## 
+NODO  urgencias 
+L:  19.31818 
+Lq:  0.969697 
+W:  0.8691632 
+Wq  0.5221615 
+Clientes servidos:  1211 
+CLientes rechazados:  0 
+Beneficio:  9370 
+########################################## 
+NODO  especialistas 
+L:  7.515152 
+Lq:  2.181818 
+W:  1.051947 
+Wq  0.2973355 
+Clientes servidos:  352 
+CLientes rechazados:  7 
+Beneficio:  25300 
+########################################## 
+NODO  cabeceras 
+L:  9.469697 
+Lq:  0.4242424 
+W:  0.7882749 
+Wq  0.2738345 
+Clientes servidos:  597 
+CLientes rechazados:  0 
+Beneficio:  17970 
+########################################## 
+GENERAL 
+L:  36.30303 
+Lq:  3.575758 
+W:  0.9457753 
+Wq:  0.4497896 
+Salidas exitosas del sistema:  2002 
+Clientes forzados a salir:  7 
+Beneficio:  52640 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  16260 y el  18282 
+########################################## 
+NODO  urgencias 
+L:  18.69118 
+Lq:  0.7058824 
+W:  0.8602319 
+Wq  0.5072116 
+Clientes servidos:  1223 
+CLientes rechazados:  0 
+Beneficio:  9160 
+########################################## 
+NODO  especialistas 
+L:  5.926471 
+Lq:  0.4705882 
+W:  0.7960302 
+Wq  0.1419982 
+Clientes servidos:  371 
+CLientes rechazados:  0 
+Beneficio:  26900 
+########################################## 
+NODO  cabeceras 
+L:  9.235294 
+Lq:  0.4117647 
+W:  0.7644951 
+Wq  0.2639889 
+Clientes servidos:  600 
+CLientes rechazados:  0 
+Beneficio:  17760 
+########################################## 
+GENERAL 
+L:  33.85294 
+Lq:  1.588235 
+W:  0.8941029 
+Wq:  0.4115814 
+Salidas exitosas del sistema:  2020 
+Clientes forzados a salir:  0 
+Beneficio:  53820 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  18282 y el  20349 
+########################################## 
+NODO  urgencias 
+L:  16.47222 
+Lq:  0 
+W:  0.7150723 
+Wq  0.3901042 
+Clientes servidos:  1186 
+CLientes rechazados:  0 
+Beneficio:  7520 
+########################################## 
+NODO  especialistas 
+L:  6.944444 
+Lq:  1.222222 
+W:  0.9243478 
+Wq  0.2343594 
+Clientes servidos:  412 
+CLientes rechazados:  0 
+Beneficio:  30400 
+########################################## 
+NODO  cabeceras 
+L:  9.75 
+Lq:  0.7222222 
+W:  0.7757423 
+Wq  0.2827466 
+Clientes servidos:  650 
+CLientes rechazados:  0 
+Beneficio:  19540 
+########################################## 
+GENERAL 
+L:  33.16667 
+Lq:  1.944444 
+W:  0.8458466 
+Wq:  0.3626183 
+Salidas exitosas del sistema:  2049 
+Clientes forzados a salir:  0 
+Beneficio:  57460 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  20349 y el  22357 
+########################################## 
+NODO  urgencias 
+L:  19.54545 
+Lq:  1.393939 
+W:  0.8733761 
+Wq  0.5261139 
+Clientes servidos:  1198 
+CLientes rechazados:  0 
+Beneficio:  9110 
+########################################## 
+NODO  especialistas 
+L:  6.5 
+Lq:  0.6969697 
+W:  0.8652651 
+Wq  0.1987374 
+Clientes servidos:  383 
+CLientes rechazados:  0 
+Beneficio:  28400 
+########################################## 
+NODO  cabeceras 
+L:  9.530303 
+Lq:  0.1212121 
+W:  0.797875 
+Wq  0.2850307 
+Clientes servidos:  621 
+CLientes rechazados:  0 
+Beneficio:  19170 
+########################################## 
+GENERAL 
+L:  35.57576 
+Lq:  2.212121 
+W:  0.9236595 
+Wq:  0.435604 
+Salidas exitosas del sistema:  2028 
+Clientes forzados a salir:  0 
+Beneficio:  56680 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  22357 y el  24370 
+########################################## 
+NODO  urgencias 
+L:  18.73529 
+Lq:  0.9117647 
+W:  0.814538 
+Wq  0.4817386 
+Clientes servidos:  1212 
+CLientes rechazados:  0 
+Beneficio:  8940 
+########################################## 
+NODO  especialistas 
+L:  7.573529 
+Lq:  1.794118 
+W:  0.9793753 
+Wq  0.2799339 
+Clientes servidos:  393 
+CLientes rechazados:  8 
+Beneficio:  29100 
+########################################## 
+NODO  cabeceras 
+L:  9.867647 
+Lq:  1.264706 
+W:  0.827226 
+Wq  0.2966206 
+Clientes servidos:  585 
+CLientes rechazados:  0 
+Beneficio:  17010 
+########################################## 
+GENERAL 
+L:  36.17647 
+Lq:  3.970588 
+W:  0.9206556 
+Wq:  0.43026 
+Salidas exitosas del sistema:  2016 
+Clientes forzados a salir:  8 
+Beneficio:  55050 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  24370 y el  26370 
+########################################## 
+NODO  urgencias 
+L:  19.22059 
+Lq:  0.7352941 
+W:  0.8501594 
+Wq  0.5106758 
+Clientes servidos:  1257 
+CLientes rechazados:  0 
+Beneficio:  9840 
+########################################## 
+NODO  especialistas 
+L:  6.529412 
+Lq:  1.235294 
+W:  0.8580897 
+Wq  0.2166928 
+Clientes servidos:  360 
+CLientes rechazados:  2 
+Beneficio:  25800 
+########################################## 
+NODO  cabeceras 
+L:  8.338235 
+Lq:  0.3529412 
+W:  0.6907602 
+Wq  0.1965426 
+Clientes servidos:  543 
+CLientes rechazados:  0 
+Beneficio:  14910 
+########################################## 
+GENERAL 
+L:  34.08824 
+Lq:  2.323529 
+W:  0.8754473 
+Wq:  0.4129129 
+Salidas exitosas del sistema:  2002 
+Clientes forzados a salir:  2 
+Beneficio:  50550 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  26370 y el  28429 
+########################################## 
+NODO  urgencias 
+L:  18.82353 
+Lq:  0.9411765 
+W:  0.8041481 
+Wq  0.4773636 
+Clientes servidos:  1216 
+CLientes rechazados:  0 
+Beneficio:  9020 
+########################################## 
+NODO  especialistas 
+L:  7.014706 
+Lq:  1.470588 
+W:  0.9440464 
+Wq  0.2409357 
+Clientes servidos:  377 
+CLientes rechazados:  1 
+Beneficio:  27500 
+########################################## 
+NODO  cabeceras 
+L:  10.57353 
+Lq:  1.088235 
+W:  0.8557437 
+Wq  0.341505 
+Clientes servidos:  645 
+CLientes rechazados:  0 
+Beneficio:  20010 
+########################################## 
+GENERAL 
+L:  36.41176 
+Lq:  3.5 
+W:  0.9230075 
+Wq:  0.4364061 
+Salidas exitosas del sistema:  2043 
+Clientes forzados a salir:  1 
+Beneficio:  56530 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  28429 y el  30457 
+########################################## 
+NODO  urgencias 
+L:  19.23529 
+Lq:  1.205882 
+W:  0.878447 
+Wq  0.5230921 
+Clientes servidos:  1226 
+CLientes rechazados:  0 
+Beneficio:  9220 
+########################################## 
+NODO  especialistas 
+L:  6.985294 
+Lq:  1.235294 
+W:  0.8897746 
+Wq  0.2310835 
+Clientes servidos:  391 
+CLientes rechazados:  3 
+Beneficio:  28900 
+########################################## 
+NODO  cabeceras 
+L:  9.014706 
+Lq:  0.4705882 
+W:  0.7649543 
+Wq  0.2471303 
+Clientes servidos:  581 
+CLientes rechazados:  0 
+Beneficio:  16810 
+########################################## 
+GENERAL 
+L:  35.23529 
+Lq:  2.911765 
+W:  0.918583 
+Wq:  0.4300969 
+Salidas exitosas del sistema:  2035 
+Clientes forzados a salir:  3 
+Beneficio:  54930 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  30457 y el  32491 
+########################################## 
+NODO  urgencias 
+L:  20.36765 
+Lq:  2.735294 
+W:  0.8703814 
+Wq  0.5318096 
+Clientes servidos:  1199 
+CLientes rechazados:  0 
+Beneficio:  8680 
+########################################## 
+NODO  especialistas 
+L:  7.176471 
+Lq:  1.529412 
+W:  0.9765734 
+Wq  0.2477839 
+Clientes servidos:  384 
+CLientes rechazados:  6 
+Beneficio:  28200 
+########################################## 
+NODO  cabeceras 
+L:  9.573529 
+Lq:  0.2647059 
+W:  0.7696802 
+Wq  0.2781468 
+Clientes servidos:  633 
+CLientes rechazados:  0 
+Beneficio:  19410 
+########################################## 
+GENERAL 
+L:  37.11765 
+Lq:  4.529412 
+W:  0.9406708 
+Wq:  0.4485961 
+Salidas exitosas del sistema:  2026 
+Clientes forzados a salir:  6 
+Beneficio:  56290 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  32491 y el  34537 
+########################################## 
+NODO  urgencias 
+L:  17.71429 
+Lq:  0.1714286 
+W:  0.794691 
+Wq  0.4547515 
+Clientes servidos:  1228 
+CLientes rechazados:  0 
+Beneficio:  8810 
+########################################## 
+NODO  especialistas 
+L:  6.114286 
+Lq:  0.5142857 
+W:  0.8198983 
+Wq  0.1678615 
+Clientes servidos:  392 
+CLientes rechazados:  0 
+Beneficio:  28700 
+########################################## 
+NODO  cabeceras 
+L:  11.41429 
+Lq:  2.628571 
+W:  0.9544883 
+Wq  0.3962318 
+Clientes servidos:  615 
+CLientes rechazados:  0 
+Beneficio:  18150 
+########################################## 
+GENERAL 
+L:  35.24286 
+Lq:  3.314286 
+W:  0.9205135 
+Wq:  0.4239957 
+Salidas exitosas del sistema:  2047 
+Clientes forzados a salir:  0 
+Beneficio:  55660 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  34537 y el  36569 
+########################################## 
+NODO  urgencias 
+L:  18.64706 
+Lq:  0.5588235 
+W:  0.8155991 
+Wq  0.4802105 
+Clientes servidos:  1230 
+CLientes rechazados:  0 
+Beneficio:  9300 
+########################################## 
+NODO  especialistas 
+L:  7.779412 
+Lq:  2.235294 
+W:  1.040281 
+Wq  0.3262068 
+Clientes servidos:  377 
+CLientes rechazados:  3 
+Beneficio:  27500 
+########################################## 
+NODO  cabeceras 
+L:  8.808824 
+Lq:  0.05882353 
+W:  0.7535037 
+Wq  0.2353248 
+Clientes servidos:  595 
+CLientes rechazados:  0 
+Beneficio:  17510 
+########################################## 
+GENERAL 
+L:  35.23529 
+Lq:  2.852941 
+W:  0.9122749 
+Wq:  0.4223935 
+Salidas exitosas del sistema:  2021 
+Clientes forzados a salir:  3 
+Beneficio:  54310 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  36569 y el  38599 
+########################################## 
+NODO  urgencias 
+L:  20.80882 
+Lq:  2.588235 
+W:  0.9126746 
+Wq  0.5642675 
+Clientes servidos:  1239 
+CLientes rechazados:  0 
+Beneficio:  9480 
+########################################## 
+NODO  especialistas 
+L:  6.485294 
+Lq:  1.088235 
+W:  0.8549395 
+Wq  0.1924489 
+Clientes servidos:  367 
+CLientes rechazados:  2 
+Beneficio:  26500 
+########################################## 
+NODO  cabeceras 
+L:  9.779412 
+Lq:  0.7647059 
+W:  0.817683 
+Wq  0.3041337 
+Clientes servidos:  613 
+CLientes rechazados:  0 
+Beneficio:  18410 
+########################################## 
+GENERAL 
+L:  37.07353 
+Lq:  4.441176 
+W:  0.952426 
+Wq:  0.4680324 
+Salidas exitosas del sistema:  2043 
+Clientes forzados a salir:  2 
+Beneficio:  54390 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  38599 y el  40650 
+########################################## 
+NODO  urgencias 
+L:  19.31429 
+Lq:  1.485714 
+W:  0.8605932 
+Wq  0.5145916 
+Clientes servidos:  1248 
+CLientes rechazados:  0 
+Beneficio:  9210 
+########################################## 
+NODO  especialistas 
+L:  7.371429 
+Lq:  1.857143 
+W:  1.003058 
+Wq  0.2823011 
+Clientes servidos:  386 
+CLientes rechazados:  9 
+Beneficio:  28100 
+########################################## 
+NODO  cabeceras 
+L:  8.714286 
+Lq:  0.4 
+W:  0.7478625 
+Wq  0.2303259 
+Clientes servidos:  582 
+CLientes rechazados:  0 
+Beneficio:  16500 
+########################################## 
+GENERAL 
+L:  35.4 
+Lq:  3.742857 
+W:  0.9342152 
+Wq:  0.436073 
+Salidas exitosas del sistema:  2030 
+Clientes forzados a salir:  9 
+Beneficio:  53810 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  40650 y el  42664 
+########################################## 
+NODO  urgencias 
+L:  19.51471 
+Lq:  1.882353 
+W:  0.8263058 
+Wq  0.4961916 
+Clientes servidos:  1199 
+CLientes rechazados:  4 
+Beneficio:  8680 
+########################################## 
+NODO  especialistas 
+L:  7.323529 
+Lq:  1.235294 
+W:  0.9041268 
+Wq  0.2664141 
+Clientes servidos:  414 
+CLientes rechazados:  4 
+Beneficio:  31200 
+########################################## 
+NODO  cabeceras 
+L:  9.176471 
+Lq:  0.6176471 
+W:  0.7377092 
+Wq  0.2455356 
+Clientes servidos:  582 
+CLientes rechazados:  0 
+Beneficio:  16860 
+########################################## 
+GENERAL 
+L:  36.01471 
+Lq:  3.735294 
+W:  0.8949606 
+Wq:  0.4230079 
+Salidas exitosas del sistema:  2005 
+Clientes forzados a salir:  8 
+Beneficio:  56740 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  42664 y el  44672 
+########################################## 
+NODO  urgencias 
+L:  18.38235 
+Lq:  0.5294118 
+W:  0.7843411 
+Wq  0.4579522 
+Clientes servidos:  1214 
+CLientes rechazados:  0 
+Beneficio:  8980 
+########################################## 
+NODO  especialistas 
+L:  6.764706 
+Lq:  0.8235294 
+W:  0.848334 
+Wq  0.2172389 
+Clientes servidos:  404 
+CLientes rechazados:  2 
+Beneficio:  30200 
+########################################## 
+NODO  cabeceras 
+L:  9.882353 
+Lq:  1 
+W:  0.8655223 
+Wq  0.3131758 
+Clientes servidos:  604 
+CLientes rechazados:  0 
+Beneficio:  17960 
+########################################## 
+GENERAL 
+L:  35.02941 
+Lq:  2.352941 
+W:  0.9088462 
+Wq:  0.4164383 
+Salidas exitosas del sistema:  2000 
+Clientes forzados a salir:  2 
+Beneficio:  57140 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  44672 y el  46694 
+########################################## 
+NODO  urgencias 
+L:  19.28788 
+Lq:  1.090909 
+W:  0.8454973 
+Wq  0.5061996 
+Clientes servidos:  1201 
+CLientes rechazados:  0 
+Beneficio:  9170 
+########################################## 
+NODO  especialistas 
+L:  6.181818 
+Lq:  0.3939394 
+W:  0.7726338 
+Wq  0.1440383 
+Clientes servidos:  382 
+CLientes rechazados:  0 
+Beneficio:  28300 
+########################################## 
+NODO  cabeceras 
+L:  10.57576 
+Lq:  1.242424 
+W:  0.8473837 
+Wq  0.3475325 
+Clientes servidos:  616 
+CLientes rechazados:  0 
+Beneficio:  18920 
+########################################## 
+GENERAL 
+L:  36.04545 
+Lq:  2.727273 
+W:  0.8987625 
+Wq:  0.4301365 
+Salidas exitosas del sistema:  2039 
+Clientes forzados a salir:  0 
+Beneficio:  56390 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  46694 y el  48727 
+########################################## 
+NODO  urgencias 
+L:  17.21429 
+Lq:  0.1142857 
+W:  0.7751583 
+Wq  0.4360001 
+Clientes servidos:  1197 
+CLientes rechazados:  0 
+Beneficio:  8190 
+########################################## 
+NODO  especialistas 
+L:  6.871429 
+Lq:  1.285714 
+W:  1.012416 
+Wq  0.2272063 
+Clientes servidos:  391 
+CLientes rechazados:  6 
+Beneficio:  28600 
+########################################## 
+NODO  cabeceras 
+L:  9.5 
+Lq:  0.6857143 
+W:  0.8092938 
+Wq  0.2817306 
+Clientes servidos:  617 
+CLientes rechazados:  0 
+Beneficio:  18250 
+########################################## 
+GENERAL 
+L:  33.58571 
+Lq:  2.085714 
+W:  0.8980559 
+Wq:  0.3864815 
+Salidas exitosas del sistema:  2030 
+Clientes forzados a salir:  6 
+Beneficio:  55040 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  48727 y el  50769 
+########################################## 
+NODO  urgencias 
+L:  19.44286 
+Lq:  2.285714 
+W:  0.8875667 
+Wq  0.5286688 
+Clientes servidos:  1201 
+CLientes rechazados:  0 
+Beneficio:  8270 
+########################################## 
+NODO  especialistas 
+L:  7.171429 
+Lq:  1.485714 
+W:  1.005979 
+Wq  0.2304718 
+Clientes servidos:  398 
+CLientes rechazados:  3 
+Beneficio:  29300 
+########################################## 
+NODO  cabeceras 
+L:  10.47143 
+Lq:  1.514286 
+W:  0.8637863 
+Wq  0.3366456 
+Clientes servidos:  627 
+CLientes rechazados:  0 
+Beneficio:  18750 
+########################################## 
+GENERAL 
+L:  37.08571 
+Lq:  5.285714 
+W:  0.9905977 
+Wq:  0.4626225 
+Salidas exitosas del sistema:  2027 
+Clientes forzados a salir:  3 
+Beneficio:  56320 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  50769 y el  52776 
+########################################## 
+NODO  urgencias 
+L:  21.42424 
+Lq:  3.030303 
+W:  0.9144863 
+Wq  0.5717908 
+Clientes servidos:  1214 
+CLientes rechazados:  0 
+Beneficio:  9430 
+########################################## 
+NODO  especialistas 
+L:  7.651515 
+Lq:  1.69697 
+W:  0.9499354 
+Wq  0.2831137 
+Clientes servidos:  393 
+CLientes rechazados:  9 
+Beneficio:  29400 
+########################################## 
+NODO  cabeceras 
+L:  8.954545 
+Lq:  0.2121212 
+W:  0.746179 
+Wq  0.2416578 
+Clientes servidos:  577 
+CLientes rechazados:  0 
+Beneficio:  16970 
+########################################## 
+GENERAL 
+L:  38.0303 
+Lq:  4.939394 
+W:  0.9666951 
+Wq:  0.4771991 
+Salidas exitosas del sistema:  1980 
+Clientes forzados a salir:  9 
+Beneficio:  55800 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  52776 y el  54802 
+########################################## 
+NODO  urgencias 
+L:  18.38235 
+Lq:  0.8823529 
+W:  0.801775 
+Wq  0.4674443 
+Clientes servidos:  1190 
+CLientes rechazados:  0 
+Beneficio:  8500 
+########################################## 
+NODO  especialistas 
+L:  6.882353 
+Lq:  0.9411765 
+W:  0.8735421 
+Wq  0.211676 
+Clientes servidos:  404 
+CLientes rechazados:  1 
+Beneficio:  30200 
+########################################## 
+NODO  cabeceras 
+L:  11.01471 
+Lq:  2 
+W:  0.9389483 
+Wq  0.378545 
+Clientes servidos:  613 
+CLientes rechazados:  0 
+Beneficio:  18410 
+########################################## 
+GENERAL 
+L:  36.27941 
+Lq:  3.823529 
+W:  0.9129964 
+Wq:  0.423775 
+Salidas exitosas del sistema:  2062 
+Clientes forzados a salir:  1 
+Beneficio:  57110 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  54802 y el  56826 
+########################################## 
+NODO  urgencias 
+L:  18.71212 
+Lq:  1.030303 
+W:  0.8014572 
+Wq  0.4736721 
+Clientes servidos:  1167 
+CLientes rechazados:  0 
+Beneficio:  8490 
+########################################## 
+NODO  especialistas 
+L:  6.515152 
+Lq:  1 
+W:  0.8588035 
+Wq  0.1979747 
+Clientes servidos:  364 
+CLientes rechazados:  7 
+Beneficio:  26500 
+########################################## 
+NODO  cabeceras 
+L:  11.01515 
+Lq:  1.151515 
+W:  0.895692 
+Wq  0.3820511 
+Clientes servidos:  651 
+CLientes rechazados:  0 
+Beneficio:  20670 
+########################################## 
+GENERAL 
+L:  36.24242 
+Lq:  3.181818 
+W:  0.9177948 
+Wq:  0.4378714 
+Salidas exitosas del sistema:  1995 
+Clientes forzados a salir:  7 
+Beneficio:  55660 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  56826 y el  58842 
+########################################## 
+NODO  urgencias 
+L:  19.51515 
+Lq:  0.8484848 
+W:  0.8610961 
+Wq  0.5222893 
+Clientes servidos:  1232 
+CLientes rechazados:  0 
+Beneficio:  9790 
+########################################## 
+NODO  especialistas 
+L:  7.439394 
+Lq:  2 
+W:  1.019509 
+Wq  0.2672479 
+Clientes servidos:  359 
+CLientes rechazados:  3 
+Beneficio:  26000 
+########################################## 
+NODO  cabeceras 
+L:  9.015152 
+Lq:  0.2424242 
+W:  0.7479927 
+Wq  0.2380657 
+Clientes servidos:  579 
+CLientes rechazados:  0 
+Beneficio:  17070 
+########################################## 
+GENERAL 
+L:  35.9697 
+Lq:  3.090909 
+W:  0.9267374 
+Wq:  0.4370914 
+Salidas exitosas del sistema:  2007 
+Clientes forzados a salir:  3 
+Beneficio:  52860 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  58842 y el  60847 
+########################################## 
+NODO  urgencias 
+L:  19.22727 
+Lq:  0.5757576 
+W:  0.8472003 
+Wq  0.51123 
+Clientes servidos:  1231 
+CLientes rechazados:  0 
+Beneficio:  9770 
+########################################## 
+NODO  especialistas 
+L:  6.212121 
+Lq:  0.6363636 
+W:  0.8089515 
+Wq  0.1524137 
+Clientes servidos:  368 
+CLientes rechazados:  0 
+Beneficio:  26900 
+########################################## 
+NODO  cabeceras 
+L:  9.424242 
+Lq:  0.6666667 
+W:  0.7785017 
+Wq  0.2732935 
+Clientes servidos:  578 
+CLientes rechazados:  0 
+Beneficio:  17020 
+########################################## 
+GENERAL 
+L:  34.86364 
+Lq:  1.878788 
+W:  0.8934988 
+Wq:  0.4208463 
+Salidas exitosas del sistema:  2004 
+Clientes forzados a salir:  0 
+Beneficio:  53690 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  60847 y el  62861 
+########################################## 
+NODO  urgencias 
+L:  19.30303 
+Lq:  0.8787879 
+W:  0.8610023 
+Wq  0.518908 
+Clientes servidos:  1216 
+CLientes rechazados:  0 
+Beneficio:  9470 
+########################################## 
+NODO  especialistas 
+L:  6.166667 
+Lq:  0.5454545 
+W:  0.8317944 
+Wq  0.1512988 
+Clientes servidos:  371 
+CLientes rechazados:  2 
+Beneficio:  27200 
+########################################## 
+NODO  cabeceras 
+L:  10.15152 
+Lq:  0.8484848 
+W:  0.800179 
+Wq  0.3147918 
+Clientes servidos:  614 
+CLientes rechazados:  0 
+Beneficio:  18820 
+########################################## 
+GENERAL 
+L:  35.62121 
+Lq:  2.272727 
+W:  0.9206802 
+Wq:  0.4388864 
+Salidas exitosas del sistema:  2006 
+Clientes forzados a salir:  2 
+Beneficio:  55490 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  62861 y el  64868 
+########################################## 
+NODO  urgencias 
+L:  20.42647 
+Lq:  2.411765 
+W:  0.8809253 
+Wq  0.5389284 
+Clientes servidos:  1225 
+CLientes rechazados:  0 
+Beneficio:  9200 
+########################################## 
+NODO  especialistas 
+L:  5.985294 
+Lq:  0.5882353 
+W:  0.8215993 
+Wq  0.1562127 
+Clientes servidos:  367 
+CLientes rechazados:  0 
+Beneficio:  26500 
+########################################## 
+NODO  cabeceras 
+L:  8.897059 
+Lq:  0.2058824 
+W:  0.7136955 
+Wq  0.2295026 
+Clientes servidos:  591 
+CLientes rechazados:  0 
+Beneficio:  17310 
+########################################## 
+GENERAL 
+L:  35.30882 
+Lq:  3.205882 
+W:  0.8931885 
+Wq:  0.4227717 
+Salidas exitosas del sistema:  2018 
+Clientes forzados a salir:  0 
+Beneficio:  53010 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  64868 y el  66903 
+########################################## 
+NODO  urgencias 
+L:  22.65152 
+Lq:  3.757576 
+W:  0.9751389 
+Wq  0.6249418 
+Clientes servidos:  1247 
+CLientes rechazados:  0 
+Beneficio:  10090 
+########################################## 
+NODO  especialistas 
+L:  6.560606 
+Lq:  1.030303 
+W:  0.8858528 
+Wq  0.1886121 
+Clientes servidos:  365 
+CLientes rechazados:  0 
+Beneficio:  26600 
+########################################## 
+NODO  cabeceras 
+L:  10.40909 
+Lq:  1.151515 
+W:  0.8540545 
+Wq  0.3405467 
+Clientes servidos:  611 
+CLientes rechazados:  0 
+Beneficio:  18670 
+########################################## 
+GENERAL 
+L:  39.62121 
+Lq:  5.939394 
+W:  1.013852 
+Wq:  0.5195375 
+Salidas exitosas del sistema:  2033 
+Clientes forzados a salir:  0 
+Beneficio:  55360 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  66903 y el  68909 
+########################################## 
+NODO  urgencias 
+L:  20.40909 
+Lq:  1.878788 
+W:  0.9161606 
+Wq  0.5635152 
+Clientes servidos:  1223 
+CLientes rechazados:  0 
+Beneficio:  9610 
+########################################## 
+NODO  especialistas 
+L:  6.863636 
+Lq:  1.151515 
+W:  0.9393328 
+Wq  0.2327468 
+Clientes servidos:  377 
+CLientes rechazados:  2 
+Beneficio:  27800 
+########################################## 
+NODO  cabeceras 
+L:  9.69697 
+Lq:  1.060606 
+W:  0.8312276 
+Wq  0.2988979 
+Clientes servidos:  570 
+CLientes rechazados:  0 
+Beneficio:  16620 
+########################################## 
+GENERAL 
+L:  36.9697 
+Lq:  4.090909 
+W:  0.9751714 
+Wq:  0.4741223 
+Salidas exitosas del sistema:  1998 
+Clientes forzados a salir:  2 
+Beneficio:  54030 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  68909 y el  70914 
+########################################## 
+NODO  urgencias 
+L:  19.01515 
+Lq:  0.7272727 
+W:  0.8376274 
+Wq  0.5028904 
+Clientes servidos:  1207 
+CLientes rechazados:  0 
+Beneficio:  9290 
+########################################## 
+NODO  especialistas 
+L:  7.742424 
+Lq:  2 
+W:  0.9874895 
+Wq  0.321939 
+Clientes servidos:  379 
+CLientes rechazados:  29 
+Beneficio:  28000 
+########################################## 
+NODO  cabeceras 
+L:  9.727273 
+Lq:  0.6969697 
+W:  0.7658537 
+Wq  0.2726877 
+Clientes servidos:  596 
+CLientes rechazados:  0 
+Beneficio:  17920 
+########################################## 
+GENERAL 
+L:  36.48485 
+Lq:  3.424242 
+W:  0.9199419 
+Wq:  0.4453174 
+Salidas exitosas del sistema:  2002 
+Clientes forzados a salir:  29 
+Beneficio:  55210 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  70914 y el  72967 
+########################################## 
+NODO  urgencias 
+L:  20.26471 
+Lq:  2.088235 
+W:  0.9098518 
+Wq  0.5570646 
+Clientes servidos:  1236 
+CLientes rechazados:  0 
+Beneficio:  9420 
+########################################## 
+NODO  especialistas 
+L:  6.617647 
+Lq:  0.9705882 
+W:  0.8559705 
+Wq  0.1993704 
+Clientes servidos:  384 
+CLientes rechazados:  1 
+Beneficio:  28200 
+########################################## 
+NODO  cabeceras 
+L:  9.838235 
+Lq:  0.9411765 
+W:  0.8319888 
+Wq  0.3087459 
+Clientes servidos:  605 
+CLientes rechazados:  0 
+Beneficio:  18010 
+########################################## 
+GENERAL 
+L:  36.72059 
+Lq:  4 
+W:  0.96007 
+Wq:  0.4670664 
+Salidas exitosas del sistema:  2038 
+Clientes forzados a salir:  1 
+Beneficio:  55630 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  72967 y el  75010 
+########################################## 
+NODO  urgencias 
+L:  20.25758 
+Lq:  1.757576 
+W:  0.8859558 
+Wq  0.5422505 
+Clientes servidos:  1221 
+CLientes rechazados:  0 
+Beneficio:  9570 
+########################################## 
+NODO  especialistas 
+L:  6.772727 
+Lq:  1.272727 
+W:  0.8917672 
+Wq  0.2074803 
+Clientes servidos:  363 
+CLientes rechazados:  17 
+Beneficio:  26400 
+########################################## 
+NODO  cabeceras 
+L:  10.0303 
+Lq:  0.9090909 
+W:  0.8262641 
+Wq  0.3149954 
+Clientes servidos:  602 
+CLientes rechazados:  0 
+Beneficio:  18220 
+########################################## 
+GENERAL 
+L:  37.06061 
+Lq:  3.939394 
+W:  0.9410853 
+Wq:  0.458472 
+Salidas exitosas del sistema:  2022 
+Clientes forzados a salir:  17 
+Beneficio:  54190 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  75010 y el  77067 
+########################################## 
+NODO  urgencias 
+L:  19.23529 
+Lq:  1.764706 
+W:  0.8628952 
+Wq  0.5134551 
+Clientes servidos:  1188 
+CLientes rechazados:  0 
+Beneficio:  8460 
+########################################## 
+NODO  especialistas 
+L:  6.279412 
+Lq:  0.8529412 
+W:  0.8325054 
+Wq  0.1931344 
+Clientes servidos:  369 
+CLientes rechazados:  1 
+Beneficio:  26700 
+########################################## 
+NODO  cabeceras 
+L:  10.20588 
+Lq:  0.6470588 
+W:  0.8253481 
+Wq  0.3225172 
+Clientes servidos:  650 
+CLientes rechazados:  0 
+Beneficio:  20260 
+########################################## 
+GENERAL 
+L:  35.72059 
+Lq:  3.264706 
+W:  0.9156248 
+Wq:  0.4364955 
+Salidas exitosas del sistema:  2041 
+Clientes forzados a salir:  1 
+Beneficio:  55420 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  77067 y el  79110 
+########################################## 
+NODO  urgencias 
+L:  17.94118 
+Lq:  0.2058824 
+W:  0.7665353 
+Wq  0.4440292 
+Clientes servidos:  1206 
+CLientes rechazados:  0 
+Beneficio:  8820 
+########################################## 
+NODO  especialistas 
+L:  6.867647 
+Lq:  1.264706 
+W:  0.9301208 
+Wq  0.2321218 
+Clientes servidos:  381 
+CLientes rechazados:  7 
+Beneficio:  27900 
+########################################## 
+NODO  cabeceras 
+L:  10.64706 
+Lq:  1.411765 
+W:  0.8551262 
+Wq  0.3437678 
+Clientes servidos:  628 
+CLientes rechazados:  0 
+Beneficio:  19160 
+########################################## 
+GENERAL 
+L:  35.45588 
+Lq:  2.882353 
+W:  0.8819023 
+Wq:  0.4078794 
+Salidas exitosas del sistema:  2059 
+Clientes forzados a salir:  7 
+Beneficio:  55880 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  79110 y el  81137 
+########################################## 
+NODO  urgencias 
+L:  18.47059 
+Lq:  0.8823529 
+W:  0.793663 
+Wq  0.4653139 
+Clientes servidos:  1196 
+CLientes rechazados:  0 
+Beneficio:  8620 
+########################################## 
+NODO  especialistas 
+L:  7.367647 
+Lq:  1.588235 
+W:  0.9856269 
+Wq  0.2589175 
+Clientes servidos:  393 
+CLientes rechazados:  4 
+Beneficio:  29100 
+########################################## 
+NODO  cabeceras 
+L:  9.529412 
+Lq:  0.6176471 
+W:  0.8251351 
+Wq  0.2951289 
+Clientes servidos:  606 
+CLientes rechazados:  0 
+Beneficio:  18060 
+########################################## 
+GENERAL 
+L:  35.36765 
+Lq:  3.088235 
+W:  0.9146435 
+Wq:  0.4168915 
+Salidas exitosas del sistema:  2008 
+Clientes forzados a salir:  4 
+Beneficio:  55780 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  81137 y el  83171 
+########################################## 
+NODO  urgencias 
+L:  19.10294 
+Lq:  1.117647 
+W:  0.8639212 
+Wq  0.5164473 
+Clientes servidos:  1223 
+CLientes rechazados:  0 
+Beneficio:  9160 
+########################################## 
+NODO  especialistas 
+L:  6.661765 
+Lq:  1.264706 
+W:  0.9184918 
+Wq  0.1977586 
+Clientes servidos:  367 
+CLientes rechazados:  7 
+Beneficio:  26500 
+########################################## 
+NODO  cabeceras 
+L:  12.08824 
+Lq:  3.088235 
+W:  1.0161 
+Wq  0.4358085 
+Clientes servidos:  612 
+CLientes rechazados:  0 
+Beneficio:  18360 
+########################################## 
+GENERAL 
+L:  37.85294 
+Lq:  5.470588 
+W:  0.990912 
+Wq:  0.4773389 
+Salidas exitosas del sistema:  2034 
+Clientes forzados a salir:  7 
+Beneficio:  54020 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  83171 y el  85193 
+########################################## 
+NODO  urgencias 
+L:  19 
+Lq:  1.088235 
+W:  0.8383045 
+Wq  0.4990612 
+Clientes servidos:  1218 
+CLientes rechazados:  0 
+Beneficio:  9060 
+########################################## 
+NODO  especialistas 
+L:  8.573529 
+Lq:  2.911765 
+W:  1.219728 
+Wq  0.399158 
+Clientes servidos:  385 
+CLientes rechazados:  9 
+Beneficio:  28300 
+########################################## 
+NODO  cabeceras 
+L:  9.338235 
+Lq:  0.2058824 
+W:  0.7817741 
+Wq  0.2763978 
+Clientes servidos:  621 
+CLientes rechazados:  0 
+Beneficio:  18810 
+########################################## 
+GENERAL 
+L:  36.91176 
+Lq:  4.205882 
+W:  0.9816849 
+Wq:  0.4635744 
+Salidas exitosas del sistema:  2013 
+Clientes forzados a salir:  9 
+Beneficio:  56170 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  85193 y el  87217 
+########################################## 
+NODO  urgencias 
+L:  19.54412 
+Lq:  1.441176 
+W:  0.8269311 
+Wq  0.4994422 
+Clientes servidos:  1231 
+CLientes rechazados:  0 
+Beneficio:  9320 
+########################################## 
+NODO  especialistas 
+L:  6.029412 
+Lq:  0.6764706 
+W:  0.7675687 
+Wq  0.1390296 
+Clientes servidos:  364 
+CLientes rechazados:  7 
+Beneficio:  26200 
+########################################## 
+NODO  cabeceras 
+L:  9.617647 
+Lq:  0.6176471 
+W:  0.8094057 
+Wq  0.2866254 
+Clientes servidos:  612 
+CLientes rechazados:  0 
+Beneficio:  18360 
+########################################## 
+GENERAL 
+L:  35.19118 
+Lq:  2.735294 
+W:  0.882236 
+Wq:  0.4137967 
+Salidas exitosas del sistema:  2032 
+Clientes forzados a salir:  7 
+Beneficio:  53880 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  87217 y el  89224 
+########################################## 
+NODO  urgencias 
+L:  18.93939 
+Lq:  0.5757576 
+W:  0.8370308 
+Wq  0.4992549 
+Clientes servidos:  1212 
+CLientes rechazados:  0 
+Beneficio:  9390 
+########################################## 
+NODO  especialistas 
+L:  6.136364 
+Lq:  0.6969697 
+W:  0.8359475 
+Wq  0.1467042 
+Clientes servidos:  359 
+CLientes rechazados:  0 
+Beneficio:  26000 
+########################################## 
+NODO  cabeceras 
+L:  10.62121 
+Lq:  1.272727 
+W:  0.9157069 
+Wq  0.3657617 
+Clientes servidos:  617 
+CLientes rechazados:  0 
+Beneficio:  18970 
+########################################## 
+GENERAL 
+L:  35.69697 
+Lq:  2.545455 
+W:  0.9393192 
+Wq:  0.4414986 
+Salidas exitosas del sistema:  2001 
+Clientes forzados a salir:  0 
+Beneficio:  54360 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  89224 y el  91256 
+########################################## 
+NODO  urgencias 
+L:  18.55882 
+Lq:  0.6470588 
+W:  0.8277453 
+Wq  0.4870375 
+Clientes servidos:  1218 
+CLientes rechazados:  0 
+Beneficio:  9060 
+########################################## 
+NODO  especialistas 
+L:  6.147059 
+Lq:  0.6764706 
+W:  0.8277891 
+Wq  0.1639712 
+Clientes servidos:  372 
+CLientes rechazados:  0 
+Beneficio:  27000 
+########################################## 
+NODO  cabeceras 
+L:  10.58824 
+Lq:  1.264706 
+W:  0.8595637 
+Wq  0.3401165 
+Clientes servidos:  634 
+CLientes rechazados:  0 
+Beneficio:  19460 
+########################################## 
+GENERAL 
+L:  35.29412 
+Lq:  2.588235 
+W:  0.9167954 
+Wq:  0.428494 
+Salidas exitosas del sistema:  2030 
+Clientes forzados a salir:  0 
+Beneficio:  55520 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  91256 y el  93279 
+########################################## 
+NODO  urgencias 
+L:  18.01515 
+Lq:  0.2424242 
+W:  0.7968746 
+Wq  0.4629403 
+Clientes servidos:  1173 
+CLientes rechazados:  0 
+Beneficio:  8610 
+########################################## 
+NODO  especialistas 
+L:  7 
+Lq:  1.121212 
+W:  0.8997117 
+Wq  0.2339662 
+Clientes servidos:  388 
+CLientes rechazados:  0 
+Beneficio:  28900 
+########################################## 
+NODO  cabeceras 
+L:  11.78788 
+Lq:  1.909091 
+W:  0.9554195 
+Wq  0.423848 
+Clientes servidos:  652 
+CLientes rechazados:  0 
+Beneficio:  20720 
+########################################## 
+GENERAL 
+L:  36.80303 
+Lq:  3.272727 
+W:  0.9444059 
+Wq:  0.4507958 
+Salidas exitosas del sistema:  2019 
+Clientes forzados a salir:  0 
+Beneficio:  58230 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  93279 y el  95285 
+########################################## 
+NODO  urgencias 
+L:  18.42647 
+Lq:  0.6764706 
+W:  0.791278 
+Wq  0.4653647 
+Clientes servidos:  1207 
+CLientes rechazados:  0 
+Beneficio:  8840 
+########################################## 
+NODO  especialistas 
+L:  6.044118 
+Lq:  0.3235294 
+W:  0.7728699 
+Wq  0.129522 
+Clientes servidos:  389 
+CLientes rechazados:  0 
+Beneficio:  28700 
+########################################## 
+NODO  cabeceras 
+L:  9.117647 
+Lq:  0.4705882 
+W:  0.7574961 
+Wq  0.2432873 
+Clientes servidos:  588 
+CLientes rechazados:  0 
+Beneficio:  17160 
+########################################## 
+GENERAL 
+L:  33.58824 
+Lq:  1.470588 
+W:  0.8531227 
+Wq:  0.3787022 
+Salidas exitosas del sistema:  1994 
+Clientes forzados a salir:  0 
+Beneficio:  54700 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  95285 y el  97341 
+########################################## 
+NODO  urgencias 
+L:  20.07576 
+Lq:  2.272727 
+W:  0.8953911 
+Wq  0.5412619 
+Clientes servidos:  1175 
+CLientes rechazados:  0 
+Beneficio:  8650 
+########################################## 
+NODO  especialistas 
+L:  7.5 
+Lq:  1.727273 
+W:  0.9934723 
+Wq  0.2663398 
+Clientes servidos:  381 
+CLientes rechazados:  1 
+Beneficio:  28200 
+########################################## 
+NODO  cabeceras 
+L:  11.4697 
+Lq:  1.606061 
+W:  0.9321705 
+Wq  0.4019384 
+Clientes servidos:  651 
+CLientes rechazados:  0 
+Beneficio:  20670 
+########################################## 
+GENERAL 
+L:  39.04545 
+Lq:  5.606061 
+W:  1.002677 
+Wq:  0.491693 
+Salidas exitosas del sistema:  2032 
+Clientes forzados a salir:  1 
+Beneficio:  57520 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  97341 y el  99394 
+########################################## 
+NODO  urgencias 
+L:  22.94118 
+Lq:  3.970588 
+W:  0.9518929 
+Wq  0.6140403 
+Clientes servidos:  1290 
+CLientes rechazados:  2 
+Beneficio:  10500 
+########################################## 
+NODO  especialistas 
+L:  5.779412 
+Lq:  0.4705882 
+W:  0.7432615 
+Wq  0.1286106 
+Clientes servidos:  361 
+CLientes rechazados:  0 
+Beneficio:  25900 
+########################################## 
+NODO  cabeceras 
+L:  9.323529 
+Lq:  0.6764706 
+W:  0.760945 
+Wq  0.2624637 
+Clientes servidos:  588 
+CLientes rechazados:  0 
+Beneficio:  17160 
+########################################## 
+GENERAL 
+L:  38.04412 
+Lq:  5.117647 
+W:  0.9371721 
+Wq:  0.4787218 
+Salidas exitosas del sistema:  2074 
+Clientes forzados a salir:  2 
+Beneficio:  53560 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  99394 y el  101438 
+########################################## 
+NODO  urgencias 
+L:  19.25 
+Lq:  1.088235 
+W:  0.8697263 
+Wq  0.5209013 
+Clientes servidos:  1235 
+CLientes rechazados:  0 
+Beneficio:  9400 
+########################################## 
+NODO  especialistas 
+L:  6.647059 
+Lq:  1.176471 
+W:  0.9296929 
+Wq  0.1884044 
+Clientes servidos:  372 
+CLientes rechazados:  23 
+Beneficio:  27000 
+########################################## 
+NODO  cabeceras 
+L:  10.19118 
+Lq:  1.264706 
+W:  0.8472397 
+Wq  0.3274447 
+Clientes servidos:  607 
+CLientes rechazados:  0 
+Beneficio:  18110 
+########################################## 
+GENERAL 
+L:  36.08824 
+Lq:  3.529412 
+W:  0.9472244 
+Wq:  0.4466986 
+Salidas exitosas del sistema:  2042 
+Clientes forzados a salir:  23 
+Beneficio:  54510 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  101438 y el  103457 
+########################################## 
+NODO  urgencias 
+L:  18.32353 
+Lq:  0.4117647 
+W:  0.8334003 
+Wq  0.4880723 
+Clientes servidos:  1218 
+CLientes rechazados:  0 
+Beneficio:  9060 
+########################################## 
+NODO  especialistas 
+L:  6.911765 
+Lq:  1.411765 
+W:  0.9448022 
+Wq  0.2245995 
+Clientes servidos:  374 
+CLientes rechazados:  3 
+Beneficio:  27200 
+########################################## 
+NODO  cabeceras 
+L:  9.147059 
+Lq:  0.5294118 
+W:  0.8005766 
+Wq  0.2600819 
+Clientes servidos:  586 
+CLientes rechazados:  0 
+Beneficio:  17060 
+########################################## 
+GENERAL 
+L:  34.38235 
+Lq:  2.352941 
+W:  0.920629 
+Wq:  0.4162727 
+Salidas exitosas del sistema:  1996 
+Clientes forzados a salir:  3 
+Beneficio:  53320 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  103457 y el  105463 
+########################################## 
+NODO  urgencias 
+L:  20.54545 
+Lq:  2.151515 
+W:  0.9232462 
+Wq  0.5679596 
+Clientes servidos:  1214 
+CLientes rechazados:  0 
+Beneficio:  9430 
+########################################## 
+NODO  especialistas 
+L:  6.818182 
+Lq:  0.8181818 
+W:  0.8612766 
+Wq  0.223291 
+Clientes servidos:  396 
+CLientes rechazados:  3 
+Beneficio:  29700 
+########################################## 
+NODO  cabeceras 
+L:  10.19697 
+Lq:  1.030303 
+W:  0.8302144 
+Wq  0.3202548 
+Clientes servidos:  605 
+CLientes rechazados:  0 
+Beneficio:  18370 
+########################################## 
+GENERAL 
+L:  37.56061 
+Lq:  4 
+W:  0.9781704 
+Wq:  0.4839045 
+Salidas exitosas del sistema:  2008 
+Clientes forzados a salir:  3 
+Beneficio:  57500 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  105463 y el  107499 
+########################################## 
+NODO  urgencias 
+L:  18.36765 
+Lq:  0 
+W:  0.8104915 
+Wq  0.4793345 
+Clientes servidos:  1249 
+CLientes rechazados:  0 
+Beneficio:  9680 
+########################################## 
+NODO  especialistas 
+L:  7.367647 
+Lq:  1.588235 
+W:  0.9530423 
+Wq  0.2833095 
+Clientes servidos:  393 
+CLientes rechazados:  8 
+Beneficio:  29100 
+########################################## 
+NODO  cabeceras 
+L:  8.882353 
+Lq:  0.6176471 
+W:  0.7829593 
+Wq  0.2419569 
+Clientes servidos:  562 
+CLientes rechazados:  0 
+Beneficio:  15860 
+########################################## 
+GENERAL 
+L:  34.61765 
+Lq:  2.205882 
+W:  0.9021593 
+Wq:  0.4177823 
+Salidas exitosas del sistema:  2025 
+Clientes forzados a salir:  8 
+Beneficio:  54640 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  107499 y el  109541 
+########################################## 
+NODO  urgencias 
+L:  17.91176 
+Lq:  0.08823529 
+W:  0.8080366 
+Wq  0.468601 
+Clientes servidos:  1212 
+CLientes rechazados:  0 
+Beneficio:  8940 
+########################################## 
+NODO  especialistas 
+L:  6.838235 
+Lq:  0.8235294 
+W:  0.8813312 
+Wq  0.2219099 
+Clientes servidos:  409 
+CLientes rechazados:  3 
+Beneficio:  30700 
+########################################## 
+NODO  cabeceras 
+L:  9.838235 
+Lq:  0.6764706 
+W:  0.7856889 
+Wq  0.2916185 
+Clientes servidos:  623 
+CLientes rechazados:  0 
+Beneficio:  18910 
+########################################## 
+GENERAL 
+L:  34.58824 
+Lq:  1.588235 
+W:  0.8949554 
+Wq:  0.4111467 
+Salidas exitosas del sistema:  2044 
+Clientes forzados a salir:  3 
+Beneficio:  58550 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  109541 y el  111587 
+########################################## 
+NODO  urgencias 
+L:  17.85714 
+Lq:  0.4285714 
+W:  0.795543 
+Wq  0.4585668 
+Clientes servidos:  1220 
+CLientes rechazados:  0 
+Beneficio:  8650 
+########################################## 
+NODO  especialistas 
+L:  6.457143 
+Lq:  0.7428571 
+W:  0.877537 
+Wq  0.1929807 
+Clientes servidos:  400 
+CLientes rechazados:  0 
+Beneficio:  29500 
+########################################## 
+NODO  cabeceras 
+L:  9.9 
+Lq:  1.2 
+W:  0.818039 
+Wq  0.3031882 
+Clientes servidos:  609 
+CLientes rechazados:  0 
+Beneficio:  17850 
+########################################## 
+GENERAL 
+L:  34.21429 
+Lq:  2.371429 
+W:  0.8799628 
+Wq:  0.3971399 
+Salidas exitosas del sistema:  2068 
+Clientes forzados a salir:  0 
+Beneficio:  56000 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  111587 y el  113595 
+########################################## 
+NODO  urgencias 
+L:  18.98485 
+Lq:  1.151515 
+W:  0.8294517 
+Wq  0.4920165 
+Clientes servidos:  1177 
+CLientes rechazados:  0 
+Beneficio:  8690 
+########################################## 
+NODO  especialistas 
+L:  7.606061 
+Lq:  1.666667 
+W:  0.9571848 
+Wq  0.2935179 
+Clientes servidos:  392 
+CLientes rechazados:  0 
+Beneficio:  29300 
+########################################## 
+NODO  cabeceras 
+L:  11.01515 
+Lq:  1.515152 
+W:  0.9369497 
+Wq  0.38385 
+Clientes servidos:  627 
+CLientes rechazados:  0 
+Beneficio:  19470 
+########################################## 
+GENERAL 
+L:  37.60606 
+Lq:  4.333333 
+W:  0.9827413 
+Wq:  0.4738147 
+Salidas exitosas del sistema:  1973 
+Clientes forzados a salir:  0 
+Beneficio:  57460 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  113595 y el  115644 
+########################################## 
+NODO  urgencias 
+L:  18.05714 
+Lq:  0.3428571 
+W:  0.8049399 
+Wq  0.4665318 
+Clientes servidos:  1240 
+CLientes rechazados:  0 
+Beneficio:  9050 
+########################################## 
+NODO  especialistas 
+L:  6.428571 
+Lq:  0.7714286 
+W:  0.832398 
+Wq  0.1779586 
+Clientes servidos:  396 
+CLientes rechazados:  2 
+Beneficio:  29100 
+########################################## 
+NODO  cabeceras 
+L:  9.371429 
+Lq:  0.8 
+W:  0.8417328 
+Wq  0.2809882 
+Clientes servidos:  600 
+CLientes rechazados:  0 
+Beneficio:  17400 
+########################################## 
+GENERAL 
+L:  33.85714 
+Lq:  1.914286 
+W:  0.8918709 
+Wq:  0.3978413 
+Salidas exitosas del sistema:  2055 
+Clientes forzados a salir:  2 
+Beneficio:  55550 
+########################################## 
+########################################## 
+Datos obtenidos entre la llegada del cliente  115644 y el  117667 
+########################################## 
+NODO  urgencias 
+L:  22.14062 
+Lq:  1.96875 
+W:  0.9447737 
+Wq  0.6094921 
+Clientes servidos:  1291 
+CLientes rechazados:  0 
+Beneficio:  11420 
+########################################## 
+NODO  especialistas 
+L:  7.21875 
+Lq:  1.09375 
+W:  0.8921851 
+Wq  0.243476 
+Clientes servidos:  392 
+CLientes rechazados:  3 
+Beneficio:  29600 
+########################################## 
+NODO  cabeceras 
+L:  8.984375 
+Lq:  0.3125 
+W:  0.8006019 
+Wq  0.2492339 
+Clientes servidos:  555 
+CLientes rechazados:  0 
+Beneficio:  16230 
+########################################## 
+GENERAL 
+L:  38.34375 
+Lq:  3.375 
+W:  0.9852121 
+Wq:  0.4993257 
+Salidas exitosas del sistema:  2044 
+Clientes forzados a salir:  3 
+Beneficio:  57250 
+########################################## 
+########################################## 
